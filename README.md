@@ -10,4 +10,21 @@ J'ai une solide expérience dans la conception et le développement d'applicatio
 
 Je suis constamment en train d'apprendre et de me perfectionner, et je suis toujours prêt à relever de nouveaux défis. Si vous êtes intéressé par mes compétences et mes projets, ou si vous souhaitez discuter d'un projet que vous avez en tête, n'hésitez pas à me contacter. Je suis ouvert aux opportunités de collaboration et de travail en équipe.
 
+
+Hagman-Web:
+Jeu réaliser lors de ma première année de bachelor,
+Le but de ce projet était de réaliser un jeu du pendu, pour cela nous devons utiliser le golang, l'HTML et le css pour 
+
+Groupie-Tracker:
+
+Sortable:
+
+Rythm-frenzy:
+
+Unity:
+
+Projet dev:
+
+
+
 Je vous remercie d'avoir visité mon portfolio, j'espère que vous apprécierez mes projets autant que j'ai aimé les créer.
