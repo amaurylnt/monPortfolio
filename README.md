@@ -1,3 +1,13 @@
+## Sommaire: 
+- [Présentation](#Présentation)
+- [Hangman-Web](#Hangman-Web)
+- [Groupie-Tracker](#Groupie-Tracker)
+- [Sortable](#Sortable)
+- [Rythm-frenzy](#Rythm-frenzy)
+- [Projet-Forum](#Projet-Forum)
+- [GameProgramming](#GameProgramming)
+- [Projet-Dev](#Projet-Dev)
+
 # Présentation
 
 Bonjour, je m'appelle Amaury Lyonnet et je suis passionné par l'informatique depuis mon plus jeune age. Etudiant à lyon Ynov Campus j'ai développer les compétences suivantes: 
@@ -20,16 +30,6 @@ J'ai une solide expérience:
 J'ai également travaillé avec Linux et Windows pour configurer des serveurs et des réseaux, ce qui m'a permis d'acquérir une connaissance approfondie des technologies réseau.
 
 Je suis constamment en train d'apprendre et de me perfectionner, et je suis toujours prêt à relever de nouveaux défis. Si vous êtes intéressé par mes compétences et mes projets, ou si vous souhaitez discuter d'un projet que vous avez en tête, n'hésitez pas à me contacter. Je suis ouvert aux opportunités de collaboration et de travail en équipe.
-
-## Sommaire: 
-- [Hangman-Web](#Hangman-Web)
-- [Groupie-Tracker](#Groupie-Tracker)
-- [Sortable](#Sortable)
-- [Rythm-frenzy](#Rythm-frenzy)
-- [Projet-Forum](#Projet-Forum)
-- [GameProgramming](#GameProgramming)
-- [Projet-Dev](#Projet-Dev)
-
 
 ## Hangman-Web:
 Est un projet réaliser lors de ma première année de bachelor,
