@@ -21,8 +21,17 @@ J'ai également travaillé avec Linux et Windows pour configurer des serveurs et
 
 Je suis constamment en train d'apprendre et de me perfectionner, et je suis toujours prêt à relever de nouveaux défis. Si vous êtes intéressé par mes compétences et mes projets, ou si vous souhaitez discuter d'un projet que vous avez en tête, n'hésitez pas à me contacter. Je suis ouvert aux opportunités de collaboration et de travail en équipe.
 
+## Sommaire: 
+- [Hangman-Web](#Hangman-Web)
+- [Groupie-Tracker](#Groupie-Tracker)
+- [Sortable](#Sortable)
+- [Rythm-frenzy](#Rythm-frenzy)
+- [Projet-Forum](#Projet-Forum)
+- [GameProgramming](#GameProgramming)
+- [Projet-Dev](#Projet-Dev)
 
-## Hagman-Web:
+
+## Hangman-Web:
 Est un projet réaliser lors de ma première année de bachelor,
 Le but de ce projet était de réaliser un jeu du pendu, par groupe de deux.
 Pour la réalisation de ce projet nous devions utiliser les langages suivant:
@@ -77,7 +86,7 @@ A prendre
 ## Rythm-frenzy:
 
 
-## Projet Forum:
+## Projet-Forum:
 Est un projet réaliser lors de ma première année de bachelor,
 Ce projet consiste à créer un forum web qui permet :
 - La communication entre les utilisateurs.
@@ -102,7 +111,7 @@ L'un des objectifs de ce projet est également de rassembler toutes les connaiss
 
 A prendre 
 
-## Game Programming:
+## GameProgramming:
 Est un projet réaliser lors de ma deuxième année de bachelor,
 Ce projet à pour but de réaliser un jeu vidéo inspirer de " Hero Tower Wars".
 Pour cela réaliser ce projet nous avons utiliser les langages suivant:
@@ -118,7 +127,7 @@ Pour cela réaliser ce projet nous avons utiliser les langages suivant:
 
 A prendre 
 
-## Projet dev:
+## Projet-Dev:
 
 
 
